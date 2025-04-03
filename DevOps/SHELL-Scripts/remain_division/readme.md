@@ -1,0 +1,1 @@
+For generating the remainder of a division use the % operator between defined variables and enclose them with $(())
