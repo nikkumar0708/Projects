@@ -1,0 +1,5 @@
+100 Shell Script Examples:=============>>>>>>>>>>>>>>>
+
+A shell script in Linux is a text file containing a sequence of commands written in a scripting language interpreted by the shell. The shell acts as an interface between the user and the operating system, interpreting commands entered by the user or read from a script file. The GNU Bourne-Again Shell also known as bash is the default shell for most of the Linux distributions. It commonly runs in its interactive form which is the Command Line Interface (CLI).
+
+Shell scripts are primarily written in scripting languages like Bash (Bourne Again SHell), sh (Bourne Shell), C Shell, Korn Shell (ksh), and others. Among these, Bash is the default shell for most Linux distributions. The very first line of a bash script needs to start with the SheBang (#!) followed by the path to the bash executable program (/bin/bash).
