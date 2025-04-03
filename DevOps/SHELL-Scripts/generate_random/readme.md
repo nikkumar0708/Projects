@@ -1,0 +1,1 @@
+To generate a random number in bash, use the RANDOM function enclosed with $(())

@@ -1,0 +1,1 @@
+If a number is even, then its remainder after dividing by 2 will be 0. Otherwise, the number is odd. So, use the remainder operator % within if-else to check if a number is even or odd.
